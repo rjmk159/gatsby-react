@@ -1,0 +1,10 @@
+body {
+  background-color: #ececec;
+}
+.content-main {
+  max-width: 60%;
+  margin: 0px auto;
+  background-color: #fff;
+  padding: 30px;
+  min-height: 100vh;
+}
